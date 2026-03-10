@@ -44,18 +44,23 @@ The application runs locally through a simple Streamlit web interface where user
 
 
 1. Clone the repository
+
 `git clone https://github.com/mwisnews/AIResumeParser.git`
+
 `cd AIResumeParser`
+
 2. Create a virtual environment (recommended)
 
 Mac/Linux
 
 `python3 -m venv venv`
+
 `source venv/bin/activate`
 
 Windows
 
 `python -m venv venv`
+
 `venv\Scripts\activate`
 
 3. Install dependencies
@@ -73,7 +78,11 @@ After launching, open the browser at:
 
 `http://localhost:8501`
 
+<img width="1920" height="960" alt="Output" src="https://github.com/user-attachments/assets/2f6486c4-21b8-4d0c-90fc-bed48810e33a" />
+
+
 ## License
 
 This project is intended for educational and portfolio purposes.
+
 
